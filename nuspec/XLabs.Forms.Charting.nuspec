@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>XLabs.Forms.Charting</id>
-    <version>2.2.0-pre05</version>
+    <version>2.3.0-pre02</version>
     <title>XLabs - Forms - Charting</title>
     <authors>XLabs Team</authors>
     <owners>XLabs Team</owners>
@@ -12,13 +12,13 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This package implements the charting components for XLabs Forms</description>
     <summary>XLabs is a open source project that aims to provide a powerfull and cross platform set of controls tailored to work with Xamarin Forms.</summary>
-    <releaseNotes>Updated for Xamarin Forms 2.2</releaseNotes>
+    <releaseNotes>Updated for Xamarin Forms 2.3</releaseNotes>
     <copyright>Copyright © 2016 XLabs Team</copyright>
     <tags>Xamarin XLabs Forms Charting</tags>
     <dependencies>
       <group>
-        <dependency id="XLabs.Forms" version="[2.2.0-pre05]" />
-        <dependency id="Xamarin.Forms" version="2.2.0.31" />
+        <dependency id="XLabs.Forms" version="[2.3.0-pre02]" />
+        <dependency id="Xamarin.Forms" version="2.3.0.107" />
       </group>
     </dependencies>
   </metadata>

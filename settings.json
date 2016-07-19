@@ -3,7 +3,8 @@
 		"VersionFile": "./version.json",
 		"AssemblyInfoFile": "./src/AssemblyInfo.Shared.cs",
 		"LoadFrom": "VersionFile",
-		"AutoIncrementVersion": false
+		"AutoIncrementVersion": false,
+		"NamespaceBase": "XLabs"
 	},
 	"build": {
 		"SourcePath": "./src",
@@ -17,10 +18,11 @@
 	},
 	"nuget": {
 		"NuGetConfig": "./.nuget/NuGet.config",
-		"FeedUrl": "",
+		"FeedUrl": "https://nuget.org",
 		"FeedAPIKey": "",
 		"ArtifactsPath": "./artifacts/packages",
 		"NuspecPath": "./nuspec",
-		"UpdateVersion": true
+		"UpdateVersion": true,
+		"VersionDependencyForLibrary": "exact"
 	}
 }

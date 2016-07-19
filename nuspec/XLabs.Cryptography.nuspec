@@ -12,7 +12,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This package contains helpers to work with cryptography.</description>
     <summary>XLabs is a open source project that aims to provide a powerfull and cross platform set of controls tailored to work with Xamarin Forms.</summary>
-    <releaseNotes>Updated for Xamarin Forms 2.2</releaseNotes>
+    <releaseNotes>Updated for Xamarin Forms 2.3</releaseNotes>
     <copyright>Copyright © 2016 XLabs Team</copyright>
     <tags>Xamarin XLabs Cryptography</tags>
   </metadata>

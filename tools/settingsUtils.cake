@@ -44,6 +44,7 @@ public class VersionSettings
 	public bool LoadFromGit {get;set;}
 	public string LoadFrom {get;set;}
 	public bool AutoIncrementVersion {get;set;}
+	public string NamespaceBase {get;set;}
 	
 	public void Display(ICakeContext context)
 	{
@@ -52,6 +53,7 @@ public class VersionSettings
 		context.Information("\tAssemblyInfo File: {0}", AssemblyInfoFile);
 		context.Information("\tLoad From: {0}", LoadFrom);
 		context.Information("\tAutoIncrement Version: {0}", AutoIncrementVersion);
+		context.Information("\tNamespace Base: {0}", NamespaceBase);
 	}
 }
 
@@ -108,6 +110,7 @@ public class NuGetSettings
 		NuGetConfig = "./.nuget/NuGet.Config";
 		ArtifactsPath = "artifacts/packages";
 		UpdateVersion = false;
+		VersionDependencyForLibrary = VersionDependencyTypes.none;
 	}
 
 	public string NuGetConfig {get;set;}
@@ -116,6 +119,7 @@ public class NuGetSettings
 	public string NuSpecPath {get;set;}
 	public string ArtifactsPath {get;set;}
 	public bool UpdateVersion {get;set;}
+	public VersionDependencyTypes VersionDependencyForLibrary {get;set;}
 	
 	public string NuSpecFileSpec {
 		get {
@@ -140,6 +144,14 @@ public class NuGetSettings
 		context.Information("\tArtifacts Path: {0}", ArtifactsPath);
 		context.Information("\tNuGet Packages Spec: {0}", NuGetPackagesSpec);
 		context.Information("\tUpdate Version: {0}", UpdateVersion);
+		context.Information("\tForce Version Match: {0}", VersionDependencyForLibrary);
 	}
-	
+}
+
+public enum VersionDependencyTypes {
+	none,
+	exact,
+	greaterthan,
+	greaterthanorequal,
+	lessthan
 }
