@@ -136,6 +136,10 @@
     <Compile Include="Controls\ImageButton\ImageButtonRenderer.cs" />
     <Compile Include="Controls\ImageGallery\ImageGalleryRenderer.cs" />
     <Compile Include="Controls\RadioButton\RadioButtonRenderer.cs" />
+    <Compile Include="Controls\RangeSlider\BitmapUtil.cs" />
+    <Compile Include="Controls\RangeSlider\PixelUtil.cs" />
+    <Compile Include="Controls\RangeSlider\RangeSliderRenderer.cs" />
+    <Compile Include="Controls\RangeSlider\RangeSliderView.cs" />
     <Compile Include="Controls\SensorBar\SensorBarDroidView.cs" />
     <Compile Include="Controls\SensorBar\SensorBarViewRenderer.cs" />
     <Compile Include="Controls\Separator\SeparatorDroidView.cs" />
@@ -195,6 +199,9 @@
     <AndroidResource Include="Resources\Values\colors.xml" />
     <AndroidResource Include="Resources\Values\dimens.xml" />
     <AndroidResource Include="Resources\Values\styles.xml" />
+    <AndroidResource Include="Resources\drawable\seek_thumb_disabled.png" />
+    <AndroidResource Include="Resources\drawable\seek_thumb_normal.png" />
+    <AndroidResource Include="Resources\drawable\seek_thumb_pressed.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Behavior\" />

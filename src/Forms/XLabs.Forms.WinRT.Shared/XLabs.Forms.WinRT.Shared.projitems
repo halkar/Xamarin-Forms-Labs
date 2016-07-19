@@ -12,6 +12,10 @@
     <Compile Include="$(MSBuildThisFileDirectory)Controls\CheckBox\CheckBoxRenderer.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controls\HybridWebView\HybridWebViewRenderer.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controls\ImageButton\ImageButtonRenderer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\RangeSlider\RangeSliderRenderer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\RangeSlider\RangeSliderControl.xaml.cs">
+      <DependentUpon>RangeSliderControl.xaml</DependentUpon>
+    </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Extensions\AlignmentExtensions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Extensions\ColorExtensions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Extensions\FontExtensions.cs" />
@@ -19,5 +23,11 @@
     <Compile Include="$(MSBuildThisFileDirectory)Services\FontManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Services\NavigationService.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)XFormsApp.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="$(MSBuildThisFileDirectory)Controls\RangeSlider\RangeSliderControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
 </Project>

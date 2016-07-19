@@ -105,6 +105,8 @@
     <Compile Include="Controls\ImageGallery\ImageGalleryView.cs" />
     <Compile Include="Controls\RadioButton\RadioButtonRenderer.cs" />
     <Compile Include="Controls\RadioButton\RadioButtonView.cs" />
+    <Compile Include="Controls\RangeSlider\RangeSliderControl.cs" />
+    <Compile Include="Controls\RangeSlider\RangeSliderRenderer.cs" />
     <Compile Include="Controls\SegmentedControlView\SegmentedControlViewRenderer.cs" />
     <Compile Include="Controls\SensorBar\SensorBarViewRenderer.cs" />
     <Compile Include="Controls\SensorBar\UISensorBar.cs" />

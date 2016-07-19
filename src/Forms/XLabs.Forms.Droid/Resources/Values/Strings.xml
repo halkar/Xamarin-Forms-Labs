@@ -4,5 +4,7 @@
   <string name="day_name_format">ddd</string>
   <string name="invalid_date">Date must be between {0} and {1}.</string>
   <string name="month_name_format">MMMM yyyy</string>
-<string name="full_date_format"></string>
+  <string name="full_date_format"></string>
+  <string name="demo_min_label">Min</string>
+  <string name="demo_max_label">Max</string>
 </resources>

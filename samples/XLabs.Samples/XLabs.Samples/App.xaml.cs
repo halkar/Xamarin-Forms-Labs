@@ -268,6 +268,7 @@ namespace XLabs.Samples
                 {"WebImage", typeof(WebImagePage)},
                 {"IconLabel", typeof(IconLabelPage)},
                 {"IconButton", typeof(IconButtonPage)},
+                {"RangeSlider",  typeof(RangeSliderPage)}
             };
 
             // This is actually a lot of work just to enable something

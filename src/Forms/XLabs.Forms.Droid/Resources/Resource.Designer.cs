@@ -91,6 +91,12 @@ namespace XLabs.Forms.Droid
 			// aapt resource value: 0x7f010004
 			public static int MediaRouteControllerWindowBackground = 2130771972;
 			
+			// aapt resource value: 0x7f01013d
+			public static int absoluteMaxValue = 2130772285;
+			
+			// aapt resource value: 0x7f01013c
+			public static int absoluteMinValue = 2130772284;
+			
 			// aapt resource value: 0x7f010061
 			public static int actionBarDivider = 2130772065;
 			
@@ -190,6 +196,12 @@ namespace XLabs.Forms.Droid
 			// aapt resource value: 0x7f0100ca
 			public static int actionViewClass = 2130772170;
 			
+			// aapt resource value: 0x7f01014f
+			public static int activateOnDefaultValues = 2130772303;
+			
+			// aapt resource value: 0x7f010145
+			public static int activeColor = 2130772293;
+			
 			// aapt resource value: 0x7f010083
 			public static int activityChooserViewStyle = 2130772099;
 			
@@ -207,6 +219,9 @@ namespace XLabs.Forms.Droid
 			
 			// aapt resource value: 0x7f0100ba
 			public static int allowStacking = 2130772154;
+			
+			// aapt resource value: 0x7f010140
+			public static int alwaysActive = 2130772288;
 			
 			// aapt resource value: 0x7f0100c1
 			public static int arrowHeadLength = 2130772161;
@@ -231,6 +246,9 @@ namespace XLabs.Forms.Droid
 			
 			// aapt resource value: 0x7f0100f6
 			public static int backgroundTintMode = 2130772214;
+			
+			// aapt resource value: 0x7f010143
+			public static int barHeight = 2130772291;
 			
 			// aapt resource value: 0x7f0100c3
 			public static int barLength = 2130772163;
@@ -406,6 +424,9 @@ namespace XLabs.Forms.Droid
 			// aapt resource value: 0x7f010035
 			public static int customNavigationLayout = 2130772021;
 			
+			// aapt resource value: 0x7f010144
+			public static int defaultColor = 2130772292;
+			
 			// aapt resource value: 0x7f0100d2
 			public static int defaultQueryHint = 2130772178;
 			
@@ -543,6 +564,9 @@ namespace XLabs.Forms.Droid
 			
 			// aapt resource value: 0x7f010120
 			public static int insetForeground = 2130772256;
+			
+			// aapt resource value: 0x7f010142
+			public static int internalPadding = 2130772290;
 			
 			// aapt resource value: 0x7f010028
 			public static int isLightTheme = 2130772008;
@@ -805,11 +829,17 @@ namespace XLabs.Forms.Droid
 			// aapt resource value: 0x7f0100c6
 			public static int showDividers = 2130772166;
 			
+			// aapt resource value: 0x7f01013f
+			public static int showLabels = 2130772287;
+			
 			// aapt resource value: 0x7f0100e2
 			public static int showText = 2130772194;
 			
 			// aapt resource value: 0x7f010048
 			public static int singleChoiceItemLayout = 2130772040;
+			
+			// aapt resource value: 0x7f01013e
+			public static int singleThumb = 2130772286;
 			
 			// aapt resource value: 0x7f010001
 			public static int spanCount = 2130771969;
@@ -919,6 +949,9 @@ namespace XLabs.Forms.Droid
 			// aapt resource value: 0x7f01012c
 			public static int tabTextColor = 2130772268;
 			
+			// aapt resource value: 0x7f010146
+			public static int textAboveThumbsColor = 2130772294;
+			
 			// aapt resource value: 0x7f01004b
 			public static int textAllCaps = 2130772043;
 			
@@ -954,6 +987,30 @@ namespace XLabs.Forms.Droid
 			
 			// aapt resource value: 0x7f0100c4
 			public static int thickness = 2130772164;
+			
+			// aapt resource value: 0x7f010149
+			public static int thumbDisabled = 2130772297;
+			
+			// aapt resource value: 0x7f010147
+			public static int thumbNormal = 2130772295;
+			
+			// aapt resource value: 0x7f010148
+			public static int thumbPressed = 2130772296;
+			
+			// aapt resource value: 0x7f01014a
+			public static int thumbShadow = 2130772298;
+			
+			// aapt resource value: 0x7f01014e
+			public static int thumbShadowBlur = 2130772302;
+			
+			// aapt resource value: 0x7f01014b
+			public static int thumbShadowColor = 2130772299;
+			
+			// aapt resource value: 0x7f01014c
+			public static int thumbShadowXOffset = 2130772300;
+			
+			// aapt resource value: 0x7f01014d
+			public static int thumbShadowYOffset = 2130772301;
 			
 			// aapt resource value: 0x7f0100dd
 			public static int thumbTextPadding = 2130772189;
@@ -1002,6 +1059,9 @@ namespace XLabs.Forms.Droid
 			
 			// aapt resource value: 0x7f010118
 			public static int useCompatPadding = 2130772248;
+			
+			// aapt resource value: 0x7f010141
+			public static int valuesAboveThumbs = 2130772289;
 			
 			// aapt resource value: 0x7f0100d7
 			public static int voiceIcon = 2130772183;
@@ -2249,8 +2309,17 @@ namespace XLabs.Forms.Droid
 			// aapt resource value: 0x7f0200a1
 			public static int mr_ic_play_light = 2130837665;
 			
+			// aapt resource value: 0x7f0200a5
+			public static int notification_template_icon_bg = 2130837669;
+			
 			// aapt resource value: 0x7f0200a2
-			public static int notification_template_icon_bg = 2130837666;
+			public static int seek_thumb_disabled = 2130837666;
+			
+			// aapt resource value: 0x7f0200a3
+			public static int seek_thumb_normal = 2130837667;
+			
+			// aapt resource value: 0x7f0200a4
+			public static int seek_thumb_pressed = 2130837668;
 			
 			static Drawable()
 			{
@@ -3081,6 +3150,12 @@ namespace XLabs.Forms.Droid
 			
 			// aapt resource value: 0x7f080029
 			public static int day_name_format = 2131230761;
+			
+			// aapt resource value: 0x7f08002e
+			public static int demo_max_label = 2131230766;
+			
+			// aapt resource value: 0x7f08002d
+			public static int demo_min_label = 2131230765;
 			
 			// aapt resource value: 0x7f08002c
 			public static int full_date_format = 2131230764;
@@ -5517,6 +5592,88 @@ namespace XLabs.Forms.Droid
 			
 			// aapt resource value: 0
 			public static int PopupWindowBackgroundState_state_above_anchor = 0;
+			
+			public static int[] RangeSliderView = new int[] {
+					2130772284,
+					2130772285,
+					2130772286,
+					2130772287,
+					2130772288,
+					2130772289,
+					2130772290,
+					2130772291,
+					2130772292,
+					2130772293,
+					2130772294,
+					2130772295,
+					2130772296,
+					2130772297,
+					2130772298,
+					2130772299,
+					2130772300,
+					2130772301,
+					2130772302,
+					2130772303};
+			
+			// aapt resource value: 1
+			public static int RangeSliderView_absoluteMaxValue = 1;
+			
+			// aapt resource value: 0
+			public static int RangeSliderView_absoluteMinValue = 0;
+			
+			// aapt resource value: 19
+			public static int RangeSliderView_activateOnDefaultValues = 19;
+			
+			// aapt resource value: 9
+			public static int RangeSliderView_activeColor = 9;
+			
+			// aapt resource value: 4
+			public static int RangeSliderView_alwaysActive = 4;
+			
+			// aapt resource value: 7
+			public static int RangeSliderView_barHeight = 7;
+			
+			// aapt resource value: 8
+			public static int RangeSliderView_defaultColor = 8;
+			
+			// aapt resource value: 6
+			public static int RangeSliderView_internalPadding = 6;
+			
+			// aapt resource value: 3
+			public static int RangeSliderView_showLabels = 3;
+			
+			// aapt resource value: 2
+			public static int RangeSliderView_singleThumb = 2;
+			
+			// aapt resource value: 10
+			public static int RangeSliderView_textAboveThumbsColor = 10;
+			
+			// aapt resource value: 13
+			public static int RangeSliderView_thumbDisabled = 13;
+			
+			// aapt resource value: 11
+			public static int RangeSliderView_thumbNormal = 11;
+			
+			// aapt resource value: 12
+			public static int RangeSliderView_thumbPressed = 12;
+			
+			// aapt resource value: 14
+			public static int RangeSliderView_thumbShadow = 14;
+			
+			// aapt resource value: 18
+			public static int RangeSliderView_thumbShadowBlur = 18;
+			
+			// aapt resource value: 15
+			public static int RangeSliderView_thumbShadowColor = 15;
+			
+			// aapt resource value: 16
+			public static int RangeSliderView_thumbShadowXOffset = 16;
+			
+			// aapt resource value: 17
+			public static int RangeSliderView_thumbShadowYOffset = 17;
+			
+			// aapt resource value: 5
+			public static int RangeSliderView_valuesAboveThumbs = 5;
 			
 			public static int[] RecyclerView = new int[] {
 					16842948,

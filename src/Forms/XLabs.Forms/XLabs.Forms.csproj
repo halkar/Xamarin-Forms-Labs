@@ -92,6 +92,7 @@
     <Compile Include="Controls\PopupLayout.cs" />
     <Compile Include="Controls\RadioButton\BindableRadioGroup.cs" />
     <Compile Include="Controls\RadioButton\CustomRadioButton.cs" />
+    <Compile Include="Controls\RangeSlider.cs" />
     <Compile Include="Controls\RepeaterView.cs" />
     <Compile Include="Controls\SegmentControl\SegmentControl.cs" />
     <Compile Include="Controls\SegmentControl\SegmentedControlView.cs" />

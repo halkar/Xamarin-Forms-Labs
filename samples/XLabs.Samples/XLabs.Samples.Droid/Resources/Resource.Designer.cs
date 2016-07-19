@@ -1832,6 +1832,8 @@ namespace XLabs.Samples.Droid
 			global::XLabs.Forms.Droid.Resource.Animation.design_snackbar_in = global::XLabs.Samples.Droid.Resource.Animation.design_snackbar_in;
 			global::XLabs.Forms.Droid.Resource.Animation.design_snackbar_out = global::XLabs.Samples.Droid.Resource.Animation.design_snackbar_out;
 			global::XLabs.Forms.Droid.Resource.Attribute.MediaRouteControllerWindowBackground = global::XLabs.Samples.Droid.Resource.Attribute.MediaRouteControllerWindowBackground;
+			global::XLabs.Forms.Droid.Resource.Attribute.absoluteMaxValue = global::XLabs.Samples.Droid.Resource.Attribute.absoluteMaxValue;
+			global::XLabs.Forms.Droid.Resource.Attribute.absoluteMinValue = global::XLabs.Samples.Droid.Resource.Attribute.absoluteMinValue;
 			global::XLabs.Forms.Droid.Resource.Attribute.actionBarDivider = global::XLabs.Samples.Droid.Resource.Attribute.actionBarDivider;
 			global::XLabs.Forms.Droid.Resource.Attribute.actionBarItemBackground = global::XLabs.Samples.Droid.Resource.Attribute.actionBarItemBackground;
 			global::XLabs.Forms.Droid.Resource.Attribute.actionBarPopupTheme = global::XLabs.Samples.Droid.Resource.Attribute.actionBarPopupTheme;
@@ -1865,12 +1867,15 @@ namespace XLabs.Samples.Droid
 			global::XLabs.Forms.Droid.Resource.Attribute.actionOverflowMenuStyle = global::XLabs.Samples.Droid.Resource.Attribute.actionOverflowMenuStyle;
 			global::XLabs.Forms.Droid.Resource.Attribute.actionProviderClass = global::XLabs.Samples.Droid.Resource.Attribute.actionProviderClass;
 			global::XLabs.Forms.Droid.Resource.Attribute.actionViewClass = global::XLabs.Samples.Droid.Resource.Attribute.actionViewClass;
+			global::XLabs.Forms.Droid.Resource.Attribute.activateOnDefaultValues = global::XLabs.Samples.Droid.Resource.Attribute.activateOnDefaultValues;
+			global::XLabs.Forms.Droid.Resource.Attribute.activeColor = global::XLabs.Samples.Droid.Resource.Attribute.activeColor;
 			global::XLabs.Forms.Droid.Resource.Attribute.activityChooserViewStyle = global::XLabs.Samples.Droid.Resource.Attribute.activityChooserViewStyle;
 			global::XLabs.Forms.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::XLabs.Samples.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
 			global::XLabs.Forms.Droid.Resource.Attribute.alertDialogCenterButtons = global::XLabs.Samples.Droid.Resource.Attribute.alertDialogCenterButtons;
 			global::XLabs.Forms.Droid.Resource.Attribute.alertDialogStyle = global::XLabs.Samples.Droid.Resource.Attribute.alertDialogStyle;
 			global::XLabs.Forms.Droid.Resource.Attribute.alertDialogTheme = global::XLabs.Samples.Droid.Resource.Attribute.alertDialogTheme;
 			global::XLabs.Forms.Droid.Resource.Attribute.allowStacking = global::XLabs.Samples.Droid.Resource.Attribute.allowStacking;
+			global::XLabs.Forms.Droid.Resource.Attribute.alwaysActive = global::XLabs.Samples.Droid.Resource.Attribute.alwaysActive;
 			global::XLabs.Forms.Droid.Resource.Attribute.arrowHeadLength = global::XLabs.Samples.Droid.Resource.Attribute.arrowHeadLength;
 			global::XLabs.Forms.Droid.Resource.Attribute.arrowShaftLength = global::XLabs.Samples.Droid.Resource.Attribute.arrowShaftLength;
 			global::XLabs.Forms.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::XLabs.Samples.Droid.Resource.Attribute.autoCompleteTextViewStyle;
@@ -1879,6 +1884,7 @@ namespace XLabs.Samples.Droid
 			global::XLabs.Forms.Droid.Resource.Attribute.backgroundStacked = global::XLabs.Samples.Droid.Resource.Attribute.backgroundStacked;
 			global::XLabs.Forms.Droid.Resource.Attribute.backgroundTint = global::XLabs.Samples.Droid.Resource.Attribute.backgroundTint;
 			global::XLabs.Forms.Droid.Resource.Attribute.backgroundTintMode = global::XLabs.Samples.Droid.Resource.Attribute.backgroundTintMode;
+			global::XLabs.Forms.Droid.Resource.Attribute.barHeight = global::XLabs.Samples.Droid.Resource.Attribute.barHeight;
 			global::XLabs.Forms.Droid.Resource.Attribute.barLength = global::XLabs.Samples.Droid.Resource.Attribute.barLength;
 			global::XLabs.Forms.Droid.Resource.Attribute.behavior_hideable = global::XLabs.Samples.Droid.Resource.Attribute.behavior_hideable;
 			global::XLabs.Forms.Droid.Resource.Attribute.behavior_overlapTop = global::XLabs.Samples.Droid.Resource.Attribute.behavior_overlapTop;
@@ -1937,6 +1943,7 @@ namespace XLabs.Samples.Droid
 			global::XLabs.Forms.Droid.Resource.Attribute.counterOverflowTextAppearance = global::XLabs.Samples.Droid.Resource.Attribute.counterOverflowTextAppearance;
 			global::XLabs.Forms.Droid.Resource.Attribute.counterTextAppearance = global::XLabs.Samples.Droid.Resource.Attribute.counterTextAppearance;
 			global::XLabs.Forms.Droid.Resource.Attribute.customNavigationLayout = global::XLabs.Samples.Droid.Resource.Attribute.customNavigationLayout;
+			global::XLabs.Forms.Droid.Resource.Attribute.defaultColor = global::XLabs.Samples.Droid.Resource.Attribute.defaultColor;
 			global::XLabs.Forms.Droid.Resource.Attribute.defaultQueryHint = global::XLabs.Samples.Droid.Resource.Attribute.defaultQueryHint;
 			global::XLabs.Forms.Droid.Resource.Attribute.dialogPreferredPadding = global::XLabs.Samples.Droid.Resource.Attribute.dialogPreferredPadding;
 			global::XLabs.Forms.Droid.Resource.Attribute.dialogTheme = global::XLabs.Samples.Droid.Resource.Attribute.dialogTheme;
@@ -1983,6 +1990,7 @@ namespace XLabs.Samples.Droid
 			global::XLabs.Forms.Droid.Resource.Attribute.indeterminateProgressStyle = global::XLabs.Samples.Droid.Resource.Attribute.indeterminateProgressStyle;
 			global::XLabs.Forms.Droid.Resource.Attribute.initialActivityCount = global::XLabs.Samples.Droid.Resource.Attribute.initialActivityCount;
 			global::XLabs.Forms.Droid.Resource.Attribute.insetForeground = global::XLabs.Samples.Droid.Resource.Attribute.insetForeground;
+			global::XLabs.Forms.Droid.Resource.Attribute.internalPadding = global::XLabs.Samples.Droid.Resource.Attribute.internalPadding;
 			global::XLabs.Forms.Droid.Resource.Attribute.isLightTheme = global::XLabs.Samples.Droid.Resource.Attribute.isLightTheme;
 			global::XLabs.Forms.Droid.Resource.Attribute.itemBackground = global::XLabs.Samples.Droid.Resource.Attribute.itemBackground;
 			global::XLabs.Forms.Droid.Resource.Attribute.itemIconTint = global::XLabs.Samples.Droid.Resource.Attribute.itemIconTint;
@@ -2070,8 +2078,10 @@ namespace XLabs.Samples.Droid
 			global::XLabs.Forms.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::XLabs.Samples.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
 			global::XLabs.Forms.Droid.Resource.Attribute.showAsAction = global::XLabs.Samples.Droid.Resource.Attribute.showAsAction;
 			global::XLabs.Forms.Droid.Resource.Attribute.showDividers = global::XLabs.Samples.Droid.Resource.Attribute.showDividers;
+			global::XLabs.Forms.Droid.Resource.Attribute.showLabels = global::XLabs.Samples.Droid.Resource.Attribute.showLabels;
 			global::XLabs.Forms.Droid.Resource.Attribute.showText = global::XLabs.Samples.Droid.Resource.Attribute.showText;
 			global::XLabs.Forms.Droid.Resource.Attribute.singleChoiceItemLayout = global::XLabs.Samples.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::XLabs.Forms.Droid.Resource.Attribute.singleThumb = global::XLabs.Samples.Droid.Resource.Attribute.singleThumb;
 			global::XLabs.Forms.Droid.Resource.Attribute.spanCount = global::XLabs.Samples.Droid.Resource.Attribute.spanCount;
 			global::XLabs.Forms.Droid.Resource.Attribute.spinBars = global::XLabs.Samples.Droid.Resource.Attribute.spinBars;
 			global::XLabs.Forms.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::XLabs.Samples.Droid.Resource.Attribute.spinnerDropDownItemStyle;
@@ -2108,6 +2118,7 @@ namespace XLabs.Samples.Droid
 			global::XLabs.Forms.Droid.Resource.Attribute.tabSelectedTextColor = global::XLabs.Samples.Droid.Resource.Attribute.tabSelectedTextColor;
 			global::XLabs.Forms.Droid.Resource.Attribute.tabTextAppearance = global::XLabs.Samples.Droid.Resource.Attribute.tabTextAppearance;
 			global::XLabs.Forms.Droid.Resource.Attribute.tabTextColor = global::XLabs.Samples.Droid.Resource.Attribute.tabTextColor;
+			global::XLabs.Forms.Droid.Resource.Attribute.textAboveThumbsColor = global::XLabs.Samples.Droid.Resource.Attribute.textAboveThumbsColor;
 			global::XLabs.Forms.Droid.Resource.Attribute.textAllCaps = global::XLabs.Samples.Droid.Resource.Attribute.textAllCaps;
 			global::XLabs.Forms.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::XLabs.Samples.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
 			global::XLabs.Forms.Droid.Resource.Attribute.textAppearanceListItem = global::XLabs.Samples.Droid.Resource.Attribute.textAppearanceListItem;
@@ -2120,6 +2131,14 @@ namespace XLabs.Samples.Droid
 			global::XLabs.Forms.Droid.Resource.Attribute.textColorSearchUrl = global::XLabs.Samples.Droid.Resource.Attribute.textColorSearchUrl;
 			global::XLabs.Forms.Droid.Resource.Attribute.theme = global::XLabs.Samples.Droid.Resource.Attribute.theme;
 			global::XLabs.Forms.Droid.Resource.Attribute.thickness = global::XLabs.Samples.Droid.Resource.Attribute.thickness;
+			global::XLabs.Forms.Droid.Resource.Attribute.thumbDisabled = global::XLabs.Samples.Droid.Resource.Attribute.thumbDisabled;
+			global::XLabs.Forms.Droid.Resource.Attribute.thumbNormal = global::XLabs.Samples.Droid.Resource.Attribute.thumbNormal;
+			global::XLabs.Forms.Droid.Resource.Attribute.thumbPressed = global::XLabs.Samples.Droid.Resource.Attribute.thumbPressed;
+			global::XLabs.Forms.Droid.Resource.Attribute.thumbShadow = global::XLabs.Samples.Droid.Resource.Attribute.thumbShadow;
+			global::XLabs.Forms.Droid.Resource.Attribute.thumbShadowBlur = global::XLabs.Samples.Droid.Resource.Attribute.thumbShadowBlur;
+			global::XLabs.Forms.Droid.Resource.Attribute.thumbShadowColor = global::XLabs.Samples.Droid.Resource.Attribute.thumbShadowColor;
+			global::XLabs.Forms.Droid.Resource.Attribute.thumbShadowXOffset = global::XLabs.Samples.Droid.Resource.Attribute.thumbShadowXOffset;
+			global::XLabs.Forms.Droid.Resource.Attribute.thumbShadowYOffset = global::XLabs.Samples.Droid.Resource.Attribute.thumbShadowYOffset;
 			global::XLabs.Forms.Droid.Resource.Attribute.thumbTextPadding = global::XLabs.Samples.Droid.Resource.Attribute.thumbTextPadding;
 			global::XLabs.Forms.Droid.Resource.Attribute.title = global::XLabs.Samples.Droid.Resource.Attribute.title;
 			global::XLabs.Forms.Droid.Resource.Attribute.titleEnabled = global::XLabs.Samples.Droid.Resource.Attribute.titleEnabled;
@@ -2136,6 +2155,7 @@ namespace XLabs.Samples.Droid
 			global::XLabs.Forms.Droid.Resource.Attribute.toolbarStyle = global::XLabs.Samples.Droid.Resource.Attribute.toolbarStyle;
 			global::XLabs.Forms.Droid.Resource.Attribute.track = global::XLabs.Samples.Droid.Resource.Attribute.track;
 			global::XLabs.Forms.Droid.Resource.Attribute.useCompatPadding = global::XLabs.Samples.Droid.Resource.Attribute.useCompatPadding;
+			global::XLabs.Forms.Droid.Resource.Attribute.valuesAboveThumbs = global::XLabs.Samples.Droid.Resource.Attribute.valuesAboveThumbs;
 			global::XLabs.Forms.Droid.Resource.Attribute.voiceIcon = global::XLabs.Samples.Droid.Resource.Attribute.voiceIcon;
 			global::XLabs.Forms.Droid.Resource.Attribute.windowActionBar = global::XLabs.Samples.Droid.Resource.Attribute.windowActionBar;
 			global::XLabs.Forms.Droid.Resource.Attribute.windowActionBarOverlay = global::XLabs.Samples.Droid.Resource.Attribute.windowActionBarOverlay;
@@ -2535,6 +2555,9 @@ namespace XLabs.Samples.Droid
 			global::XLabs.Forms.Droid.Resource.Drawable.mr_ic_play_dark = global::XLabs.Samples.Droid.Resource.Drawable.mr_ic_play_dark;
 			global::XLabs.Forms.Droid.Resource.Drawable.mr_ic_play_light = global::XLabs.Samples.Droid.Resource.Drawable.mr_ic_play_light;
 			global::XLabs.Forms.Droid.Resource.Drawable.notification_template_icon_bg = global::XLabs.Samples.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::XLabs.Forms.Droid.Resource.Drawable.seek_thumb_disabled = global::XLabs.Samples.Droid.Resource.Drawable.seek_thumb_disabled;
+			global::XLabs.Forms.Droid.Resource.Drawable.seek_thumb_normal = global::XLabs.Samples.Droid.Resource.Drawable.seek_thumb_normal;
+			global::XLabs.Forms.Droid.Resource.Drawable.seek_thumb_pressed = global::XLabs.Samples.Droid.Resource.Drawable.seek_thumb_pressed;
 			global::XLabs.Forms.Droid.Resource.Id.action0 = global::XLabs.Samples.Droid.Resource.Id.action0;
 			global::XLabs.Forms.Droid.Resource.Id.action_bar = global::XLabs.Samples.Droid.Resource.Id.action_bar;
 			global::XLabs.Forms.Droid.Resource.Id.action_bar_activity_content = global::XLabs.Samples.Droid.Resource.Id.action_bar_activity_content;
@@ -2790,6 +2813,8 @@ namespace XLabs.Samples.Droid
 			global::XLabs.Forms.Droid.Resource.String.bottom_sheet_behavior = global::XLabs.Samples.Droid.Resource.String.bottom_sheet_behavior;
 			global::XLabs.Forms.Droid.Resource.String.character_counter_pattern = global::XLabs.Samples.Droid.Resource.String.character_counter_pattern;
 			global::XLabs.Forms.Droid.Resource.String.day_name_format = global::XLabs.Samples.Droid.Resource.String.day_name_format;
+			global::XLabs.Forms.Droid.Resource.String.demo_max_label = global::XLabs.Samples.Droid.Resource.String.demo_max_label;
+			global::XLabs.Forms.Droid.Resource.String.demo_min_label = global::XLabs.Samples.Droid.Resource.String.demo_min_label;
 			global::XLabs.Forms.Droid.Resource.String.full_date_format = global::XLabs.Samples.Droid.Resource.String.full_date_format;
 			global::XLabs.Forms.Droid.Resource.String.invalid_date = global::XLabs.Samples.Droid.Resource.String.invalid_date;
 			global::XLabs.Forms.Droid.Resource.String.library_name = global::XLabs.Samples.Droid.Resource.String.library_name;
@@ -3508,6 +3533,27 @@ namespace XLabs.Samples.Droid
 			global::XLabs.Forms.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::XLabs.Samples.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
 			global::XLabs.Forms.Droid.Resource.Styleable.PopupWindowBackgroundState = global::XLabs.Samples.Droid.Resource.Styleable.PopupWindowBackgroundState;
 			global::XLabs.Forms.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::XLabs.Samples.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_absoluteMaxValue = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_absoluteMaxValue;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_absoluteMinValue = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_absoluteMinValue;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_activateOnDefaultValues = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_activateOnDefaultValues;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_activeColor = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_activeColor;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_alwaysActive = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_alwaysActive;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_barHeight = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_barHeight;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_defaultColor = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_defaultColor;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_internalPadding = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_internalPadding;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_showLabels = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_showLabels;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_singleThumb = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_singleThumb;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_textAboveThumbsColor = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_textAboveThumbsColor;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_thumbDisabled = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_thumbDisabled;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_thumbNormal = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_thumbNormal;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_thumbPressed = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_thumbPressed;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_thumbShadow = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_thumbShadow;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_thumbShadowBlur = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_thumbShadowBlur;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_thumbShadowColor = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_thumbShadowColor;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_thumbShadowXOffset = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_thumbShadowXOffset;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_thumbShadowYOffset = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_thumbShadowYOffset;
+			global::XLabs.Forms.Droid.Resource.Styleable.RangeSliderView_valuesAboveThumbs = global::XLabs.Samples.Droid.Resource.Styleable.RangeSliderView_valuesAboveThumbs;
 			global::XLabs.Forms.Droid.Resource.Styleable.RecyclerView = global::XLabs.Samples.Droid.Resource.Styleable.RecyclerView;
 			global::XLabs.Forms.Droid.Resource.Styleable.RecyclerView_android_orientation = global::XLabs.Samples.Droid.Resource.Styleable.RecyclerView_android_orientation;
 			global::XLabs.Forms.Droid.Resource.Styleable.RecyclerView_layoutManager = global::XLabs.Samples.Droid.Resource.Styleable.RecyclerView_layoutManager;
@@ -3713,6 +3759,12 @@ namespace XLabs.Samples.Droid
 			// aapt resource value: 0x7f010004
 			public const int MediaRouteControllerWindowBackground = 2130771972;
 			
+			// aapt resource value: 0x7f01013d
+			public const int absoluteMaxValue = 2130772285;
+			
+			// aapt resource value: 0x7f01013c
+			public const int absoluteMinValue = 2130772284;
+			
 			// aapt resource value: 0x7f010061
 			public const int actionBarDivider = 2130772065;
 			
@@ -3812,6 +3864,12 @@ namespace XLabs.Samples.Droid
 			// aapt resource value: 0x7f0100ca
 			public const int actionViewClass = 2130772170;
 			
+			// aapt resource value: 0x7f01014f
+			public const int activateOnDefaultValues = 2130772303;
+			
+			// aapt resource value: 0x7f010145
+			public const int activeColor = 2130772293;
+			
 			// aapt resource value: 0x7f010083
 			public const int activityChooserViewStyle = 2130772099;
 			
@@ -3829,6 +3887,9 @@ namespace XLabs.Samples.Droid
 			
 			// aapt resource value: 0x7f0100ba
 			public const int allowStacking = 2130772154;
+			
+			// aapt resource value: 0x7f010140
+			public const int alwaysActive = 2130772288;
 			
 			// aapt resource value: 0x7f0100c1
 			public const int arrowHeadLength = 2130772161;
@@ -3853,6 +3914,9 @@ namespace XLabs.Samples.Droid
 			
 			// aapt resource value: 0x7f0100f6
 			public const int backgroundTintMode = 2130772214;
+			
+			// aapt resource value: 0x7f010143
+			public const int barHeight = 2130772291;
 			
 			// aapt resource value: 0x7f0100c3
 			public const int barLength = 2130772163;
@@ -4028,6 +4092,9 @@ namespace XLabs.Samples.Droid
 			// aapt resource value: 0x7f010035
 			public const int customNavigationLayout = 2130772021;
 			
+			// aapt resource value: 0x7f010144
+			public const int defaultColor = 2130772292;
+			
 			// aapt resource value: 0x7f0100d2
 			public const int defaultQueryHint = 2130772178;
 			
@@ -4165,6 +4232,9 @@ namespace XLabs.Samples.Droid
 			
 			// aapt resource value: 0x7f010120
 			public const int insetForeground = 2130772256;
+			
+			// aapt resource value: 0x7f010142
+			public const int internalPadding = 2130772290;
 			
 			// aapt resource value: 0x7f010028
 			public const int isLightTheme = 2130772008;
@@ -4427,11 +4497,17 @@ namespace XLabs.Samples.Droid
 			// aapt resource value: 0x7f0100c6
 			public const int showDividers = 2130772166;
 			
+			// aapt resource value: 0x7f01013f
+			public const int showLabels = 2130772287;
+			
 			// aapt resource value: 0x7f0100e2
 			public const int showText = 2130772194;
 			
 			// aapt resource value: 0x7f010048
 			public const int singleChoiceItemLayout = 2130772040;
+			
+			// aapt resource value: 0x7f01013e
+			public const int singleThumb = 2130772286;
 			
 			// aapt resource value: 0x7f010001
 			public const int spanCount = 2130771969;
@@ -4541,6 +4617,9 @@ namespace XLabs.Samples.Droid
 			// aapt resource value: 0x7f01012c
 			public const int tabTextColor = 2130772268;
 			
+			// aapt resource value: 0x7f010146
+			public const int textAboveThumbsColor = 2130772294;
+			
 			// aapt resource value: 0x7f01004b
 			public const int textAllCaps = 2130772043;
 			
@@ -4576,6 +4655,30 @@ namespace XLabs.Samples.Droid
 			
 			// aapt resource value: 0x7f0100c4
 			public const int thickness = 2130772164;
+			
+			// aapt resource value: 0x7f010149
+			public const int thumbDisabled = 2130772297;
+			
+			// aapt resource value: 0x7f010147
+			public const int thumbNormal = 2130772295;
+			
+			// aapt resource value: 0x7f010148
+			public const int thumbPressed = 2130772296;
+			
+			// aapt resource value: 0x7f01014a
+			public const int thumbShadow = 2130772298;
+			
+			// aapt resource value: 0x7f01014e
+			public const int thumbShadowBlur = 2130772302;
+			
+			// aapt resource value: 0x7f01014b
+			public const int thumbShadowColor = 2130772299;
+			
+			// aapt resource value: 0x7f01014c
+			public const int thumbShadowXOffset = 2130772300;
+			
+			// aapt resource value: 0x7f01014d
+			public const int thumbShadowYOffset = 2130772301;
 			
 			// aapt resource value: 0x7f0100dd
 			public const int thumbTextPadding = 2130772189;
@@ -4624,6 +4727,9 @@ namespace XLabs.Samples.Droid
 			
 			// aapt resource value: 0x7f010118
 			public const int useCompatPadding = 2130772248;
+			
+			// aapt resource value: 0x7f010141
+			public const int valuesAboveThumbs = 2130772289;
 			
 			// aapt resource value: 0x7f0100d7
 			public const int voiceIcon = 2130772183;
@@ -5874,8 +5980,17 @@ namespace XLabs.Samples.Droid
 			// aapt resource value: 0x7f0200a2
 			public const int mr_ic_play_light = 2130837666;
 			
+			// aapt resource value: 0x7f0200a6
+			public const int notification_template_icon_bg = 2130837670;
+			
 			// aapt resource value: 0x7f0200a3
-			public const int notification_template_icon_bg = 2130837667;
+			public const int seek_thumb_disabled = 2130837667;
+			
+			// aapt resource value: 0x7f0200a4
+			public const int seek_thumb_normal = 2130837668;
+			
+			// aapt resource value: 0x7f0200a5
+			public const int seek_thumb_pressed = 2130837669;
 			
 			static Drawable()
 			{
@@ -6718,6 +6833,12 @@ namespace XLabs.Samples.Droid
 			
 			// aapt resource value: 0x7f080029
 			public const int day_name_format = 2131230761;
+			
+			// aapt resource value: 0x7f08002e
+			public const int demo_max_label = 2131230766;
+			
+			// aapt resource value: 0x7f08002d
+			public const int demo_min_label = 2131230765;
 			
 			// aapt resource value: 0x7f08002c
 			public const int full_date_format = 2131230764;
@@ -9163,6 +9284,88 @@ namespace XLabs.Samples.Droid
 			
 			// aapt resource value: 0
 			public const int PopupWindowBackgroundState_state_above_anchor = 0;
+			
+			public static int[] RangeSliderView = new int[] {
+					2130772284,
+					2130772285,
+					2130772286,
+					2130772287,
+					2130772288,
+					2130772289,
+					2130772290,
+					2130772291,
+					2130772292,
+					2130772293,
+					2130772294,
+					2130772295,
+					2130772296,
+					2130772297,
+					2130772298,
+					2130772299,
+					2130772300,
+					2130772301,
+					2130772302,
+					2130772303};
+			
+			// aapt resource value: 1
+			public const int RangeSliderView_absoluteMaxValue = 1;
+			
+			// aapt resource value: 0
+			public const int RangeSliderView_absoluteMinValue = 0;
+			
+			// aapt resource value: 19
+			public const int RangeSliderView_activateOnDefaultValues = 19;
+			
+			// aapt resource value: 9
+			public const int RangeSliderView_activeColor = 9;
+			
+			// aapt resource value: 4
+			public const int RangeSliderView_alwaysActive = 4;
+			
+			// aapt resource value: 7
+			public const int RangeSliderView_barHeight = 7;
+			
+			// aapt resource value: 8
+			public const int RangeSliderView_defaultColor = 8;
+			
+			// aapt resource value: 6
+			public const int RangeSliderView_internalPadding = 6;
+			
+			// aapt resource value: 3
+			public const int RangeSliderView_showLabels = 3;
+			
+			// aapt resource value: 2
+			public const int RangeSliderView_singleThumb = 2;
+			
+			// aapt resource value: 10
+			public const int RangeSliderView_textAboveThumbsColor = 10;
+			
+			// aapt resource value: 13
+			public const int RangeSliderView_thumbDisabled = 13;
+			
+			// aapt resource value: 11
+			public const int RangeSliderView_thumbNormal = 11;
+			
+			// aapt resource value: 12
+			public const int RangeSliderView_thumbPressed = 12;
+			
+			// aapt resource value: 14
+			public const int RangeSliderView_thumbShadow = 14;
+			
+			// aapt resource value: 18
+			public const int RangeSliderView_thumbShadowBlur = 18;
+			
+			// aapt resource value: 15
+			public const int RangeSliderView_thumbShadowColor = 15;
+			
+			// aapt resource value: 16
+			public const int RangeSliderView_thumbShadowXOffset = 16;
+			
+			// aapt resource value: 17
+			public const int RangeSliderView_thumbShadowYOffset = 17;
+			
+			// aapt resource value: 5
+			public const int RangeSliderView_valuesAboveThumbs = 5;
 			
 			public static int[] RecyclerView = new int[] {
 					16842948,
